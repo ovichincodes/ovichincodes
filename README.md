@@ -1,7 +1,7 @@
 Hi 👋 My name is Zubby Charles
 ==============================
 
-Software Engineer
+I am a Software Engineer
 -----------------
 
 I'm been into coding for 4+ years, started off with visual basic and c++ back in college and progressively moved to HTML5, CSS3 where I learnt the basics of web design. Having an eye for the core functionalities of the web and not just UI, I proceeded to learning JavaScript, PHP and C#. I'm proficient in ASP.Net Core MVC, Laravel and MERN. Of course I deal with databases as well, MongoDB, MSSQL, MySQL, PostgreSQL, Redis for caching et al.
