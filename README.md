@@ -12,6 +12,7 @@ I've been coding for 4+ years, started off with visual basic and c++ back in col
 * 🧠  I'm learning more about .Net Core
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  Asides coding, I love to listen to music, sing(even though I'm not great at it), watch movies and read about tech. That been said, you can tell I'm an introvert.
+* Second [GitHub Account](https://github.com/zubby-IB)
 
 <a href="https://www.twitter.com/zubbydev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/zubbydev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
