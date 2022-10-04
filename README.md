@@ -7,9 +7,7 @@ I am a Software Engineer
 I've been coding for 4+ years, started off with visual basic and c++ back in college and progressively moved to HTML5, CSS3 where I learnt the basics of web design. Having an eye for the core functionalities of the web and not just UI, I proceeded to learning JavaScript, PHP and C#. I'm proficient in ASP.Net Core MVC, Laravel and MERN. Of course I deal with databases as well, MongoDB, MSSQL, MySQL, PostgreSQL, Redis for caching et al.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [Coming soon...](http://comingsoon)
 * ✉️  You can contact me at [ovichincodes@gmail.com](mailto:ovichincodes@gmail.com)
-* 🧠  I'm learning more about .Net Core
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  Asides coding, I love to listen to music, sing(even though I'm not great at it), watch movies and read about tech. That been said, you can tell I'm an introvert.
 * Second [GitHub Account](https://github.com/zubby-IB)
