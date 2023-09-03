@@ -4,9 +4,9 @@ Hi 👋 My name is Zubby Charles
 I am a Software Engineer
 -----------------
 
-I'm proficient in ASP.Net Core/MVC, Web APIs, Laravel and MERN. I am knowledgeable about databases as well, MSSQL, MySQL, PostgreSQL, Redis, mongoDB.
+I'm proficient in ASP.Net Core/MVC, Web APIs, Laravel. I am knowledgeable about databases as well, MSSQL, MySQL, PostgreSQL, Redis, mongoDB.
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [ovichincodes@gmail.com](mailto:ovichincodes@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Projects
 * Second [GitHub Account](https://github.com/zubby-IB)
