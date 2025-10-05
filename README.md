@@ -1,4 +1,4 @@
-Hi 👋 My name is Zubby Charles
+Hi 👋 My name is zubby
 ==============================
 
 I am a Software Engineer
